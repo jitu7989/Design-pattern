@@ -1,2 +1,2 @@
-# Software-architechture
-Learning Software Achitechture
+# Design Patterns
+Learning Design Patterns
